@@ -17,8 +17,8 @@ into a excel sheet. After converting it into an excel sheet, the user can remove
 
 ### Sneak Peak (The GUI Is UGLY)
 
-YouTube Data To Excel Sheet GUI
+YouTube Data To Excel Sheet GUI  
 ![Image Description](https://drive.google.com/uc?export=view&id=1RYzjvCiwKboLGquJezaMzrKYOWW_GIl7)
 
-Data Row Keeper GUI
+Data Row Keeper GUI  
 ![Image Description](https://drive.google.com/uc?export=view&id=1sgvB9fqeD0rh_SZidK9XTDvs5o14Lwvf)
