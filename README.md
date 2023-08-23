@@ -15,3 +15,8 @@ into a excel sheet. After converting it into an excel sheet, the user can remove
 7. Add the output excel sheet in the second file
 8. Keep the row with the "Keep" row button and "Next" to remove the row
 
+### Sneak Peak
+
+![Image Description](https://drive.google.com/uc?export=view&id=1RYzjvCiwKboLGquJezaMzrKYOWW_GIl7)
+![Image Description](https://drive.google.com/uc?export=view&id=1sgvB9fqeD0rh_SZidK9XTDvs5o14Lwvf)
+https://drive.google.com/file/d/1sgvB9fqeD0rh_SZidK9XTDvs5o14Lwvf/view?usp=sharing
