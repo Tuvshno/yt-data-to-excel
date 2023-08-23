@@ -1,2 +1,0 @@
-    channel_id = "UCbz_aqiqO2HcAx01iJM5WGA"  # Replace with your channel ID
-    client_secrets_file = "D:\Dev\yt-excel\client_secret_1091476056770-gif497vdakrujbodgd9apc9rb9hht84t.apps.googleusercontent.com.json"  # Replace with the path to your client_secret.json file
