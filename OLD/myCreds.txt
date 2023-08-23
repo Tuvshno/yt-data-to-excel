@@ -1,4 +1,0 @@
-api_key = 'AIzaSyCyYE5tgXV7HJ_QCtQevzY66QJCIACBbRY'
-channel_id = 'UCbz_aqiqO2HcAx01iJM5WGA'
-
-youtube = build('youtube', 'v3', developerKey=api_key)
